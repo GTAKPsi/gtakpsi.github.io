@@ -384,7 +384,7 @@
                                                                         "type": "business",
                                                                         "value": "Business first"
                                                                     },
-                                                                    "positionName": "Pledge"
+                                                                    "positionName": "Brother"
                                                                 }
                                                                 ]
                                                             }
@@ -422,7 +422,7 @@
                                                             "children": [
                                                             {
                                                                 "name": "Neha Golakia",
-                                                                "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/general.jpg",
+                                                                "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/NehaGolakia.jpg",
                                                                 "area": "Corporate",
                                                                 "profileUrl": "http://example.com/employee/profile",
                                                                 "office": "CEO office",
@@ -432,7 +432,7 @@
                                                                     "type": "business",
                                                                     "value": "Business first"
                                                                 },
-                                                                "positionName": "Pledge"
+                                                                "positionName": "Brother"
                                                             }
                                                             ]
                                                         }
@@ -1034,7 +1034,7 @@
                                                                             "type": "business",
                                                                             "value": "Business first"
                                                                         },
-                                                                        "positionName": "VP of Operations",
+                                                                        "positionName": "Brother",
                                                                         "children": [
                                                                         {
                                                                             "name": "Manas Chakka",
@@ -1048,11 +1048,11 @@
                                                                                 "type": "business",
                                                                                 "value": "Business first"
                                                                             },
-                                                                            "positionName": "Brother",
+                                                                            "positionName": "Master of Rituals",
                                                                             "children": [
                                                                             {
                                                                                 "name": "Somil Jain",
-                                                                                "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/general.jpg",
+                                                                                "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/SomilJain.jpg",
                                                                                 "area": "Corporate",
                                                                                 "profileUrl": "http://example.com/employee/profile",
                                                                                 "office": "CEO office",
@@ -1062,7 +1062,7 @@
                                                                                     "type": "business",
                                                                                     "value": "Business first"
                                                                                 },
-                                                                                "positionName": "Pledge"
+                                                                                "positionName": "Brother"
                                                                             }
                                                                             ]
                                                                         }
@@ -1206,7 +1206,7 @@
                                                                             "children": [
                                                                             {
                                                                                 "name": "Jaegook (Alex) Kim",
-                                                                                "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/general.jpg",
+                                                                                "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/AlexKim.jpg",
                                                                                 "area": "Corporate",
                                                                                 "profileUrl": "http://example.com/employee/profile",
                                                                                 "office": "CEO office",
@@ -1216,7 +1216,7 @@
                                                                                     "type": "business",
                                                                                     "value": "Business first"
                                                                                 },
-                                                                                "positionName": "Pledge"
+                                                                                "positionName": "Brother"
                                                                             }
                                                                             ]
                                                                         }
@@ -1596,7 +1596,7 @@
                                                                     "children": [
                                                                     {
                                                                         "name": "Ajay Vijayakumar",
-                                                                        "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/general.jpg",
+                                                                        "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/AjayVijayakumar.jpg",
                                                                         "area": "Corporate",
                                                                         "profileUrl": "http://example.com/employee/profile",
                                                                         "office": "CEO office",
@@ -1606,7 +1606,7 @@
                                                                             "type": "business",
                                                                             "value": "Business first"
                                                                         },
-                                                                        "positionName": "Pledge"
+                                                                        "positionName": "Brother"
                                                                     }
                                                                     ]
                                                                 }
@@ -2006,7 +2006,7 @@
                                                                     "children": [
                                                                     {
                                                                         "name": "Tanvi Dange",
-                                                                        "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/general.jpg",
+                                                                        "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/TanviDange.jpg",
                                                                         "area": "Corporate",
                                                                         "profileUrl": "http://example.com/employee/profile",
                                                                         "office": "CEO office",
@@ -2016,7 +2016,7 @@
                                                                             "type": "business",
                                                                             "value": "Business first"
                                                                         },
-                                                                        "positionName": "Pledge"
+                                                                        "positionName": "Brother"
                                                                     }
                                                                     ]
                                                                 },
@@ -2032,11 +2032,11 @@
                                                                         "type": "business",
                                                                         "value": "Business first"
                                                                     },
-                                                                    "positionName": "Brother",
+                                                                    "positionName": "Executive Vice President",
                                                                     "children": [
                                                                     {
                                                                         "name": "Sachin Konan",
-                                                                        "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/general.jpg",
+                                                                        "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/SachinKonan.jpg",
                                                                         "area": "Corporate",
                                                                         "profileUrl": "http://example.com/employee/profile",
                                                                         "office": "CEO office",
@@ -2046,7 +2046,7 @@
                                                                             "type": "business",
                                                                             "value": "Business first"
                                                                         },
-                                                                        "positionName": "Pledge"
+                                                                        "positionName": "Brother"
                                                                     }
                                                                     ]
                                                                 }
@@ -2108,7 +2108,7 @@
                                                                             "type": "business",
                                                                             "value": "Business first"
                                                                         },
-                                                                        "positionName": "Brother"
+                                                                        "positionName": "VP of Operations"
                                                                     }
                                                                     ]
                                                                 },
@@ -2156,7 +2156,7 @@
                                                                     "type": "business",
                                                                     "value": "Business first"
                                                                 },
-                                                                "positionName": "VP of Marketing",
+                                                                "positionName": "Brother",
                                                                 "children": [
                                                                 {
                                                                     "name": "Yash Darshane",
@@ -2286,7 +2286,7 @@
                                                             "children" : [
                                                             {
                                                                 "name": "Daivi Patel",
-                                                                "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/general.jpg",
+                                                                "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/DaiviPatel.jpg",
                                                                 "area": "Corporate",
                                                                 "profileUrl": "http://example.com/employee/profile",
                                                                 "office": "CEO office",
@@ -2296,11 +2296,11 @@
                                                                     "type": "business",
                                                                     "value": "Business first"
                                                                 },
-                                                                "positionName": "Pledge"
+                                                                "positionName": "Brother"
                                                             },
                                                             {
                                                                 "name": "Kenneth Kannampully",
-                                                                "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/general.jpg",
+                                                                "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/KennethKannampully.jpg",
                                                                 "area": "Corporate",
                                                                 "profileUrl": "http://example.com/employee/profile",
                                                                 "office": "CEO office",
@@ -2310,7 +2310,7 @@
                                                                     "type": "business",
                                                                     "value": "Business first"
                                                                 },
-                                                                "positionName": "Pledge"
+                                                                "positionName": "Brother"
                                                             }
                                                             ]
                                                         },
@@ -2672,7 +2672,7 @@
                                                                                         "type": "business",
                                                                                         "value": "Business first"
                                                                                     },
-                                                                                    "positionName": "Master of Rituals",
+                                                                                    "positionName": "Brother",
                                                                                     "children": [
                                                                                     {
                                                                                         "name": "Radhika Srivastava",
@@ -2724,7 +2724,7 @@
                                                                                 "children": [
                                                                                 {
                                                                                     "name": "Carter Gooch",
-                                                                                    "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/general.jpg",
+                                                                                    "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/CarterGooch.jpg",
                                                                                     "area": "Corporate",
                                                                                     "profileUrl": "http://example.com/employee/profile",
                                                                                     "office": "CEO office",
@@ -2734,7 +2734,7 @@
                                                                                         "type": "business",
                                                                                         "value": "Business first"
                                                                                     },
-                                                                                    "positionName": "Pledge"
+                                                                                    "positionName": "Brother"
                                                                                 }
                                                                                 ]
                                                                             }
@@ -2796,7 +2796,7 @@
                                                                                         "type": "business",
                                                                                         "value": "Business first"
                                                                                     },
-                                                                                    "positionName": "VP of Alumni Relations",
+                                                                                    "positionName": "Brother",
                                                                                     "children": [
                                                                                     {
                                                                                         "name": "Ayesha Ahuja",
@@ -2814,7 +2814,7 @@
                                                                                         "children": [
                                                                                         {
                                                                                             "name": "Kaelyn Kim",
-                                                                                            "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/general.jpg",
+                                                                                            "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/KaelynKim.jpg",
                                                                                             "area": "Corporate",
                                                                                             "profileUrl": "http://example.com/employee/profile",
                                                                                             "office": "CEO office",
@@ -2824,7 +2824,7 @@
                                                                                                 "type": "business",
                                                                                                 "value": "Business first"
                                                                                             },
-                                                                                            "positionName": "Pledge"
+                                                                                            "positionName": "Brother"
                                                                                         }
                                                                                         ]
                                                                                     }
@@ -2918,11 +2918,11 @@
                                                                                         "type": "business",
                                                                                         "value": "Business first"
                                                                                     },
-                                                                                    "positionName": "Brother"
+                                                                                    "positionName": "VP of Alumni Relations"
                                                                                 },
                                                                                 {
                                                                                     "name": "Ethan Channell",
-                                                                                    "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/general.jpg",
+                                                                                    "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/EthanChannell.jpg",
                                                                                     "area": "Corporate",
                                                                                     "profileUrl": "http://example.com/employee/profile",
                                                                                     "office": "CEO office",
@@ -2932,7 +2932,7 @@
                                                                                         "type": "business",
                                                                                         "value": "Business first"
                                                                                     },
-                                                                                    "positionName": "Pledge"
+                                                                                    "positionName": "Brother"
                                                                                 }
                                                                                 ]
                                                                             }
@@ -2984,7 +2984,7 @@
                                                                             "type": "business",
                                                                             "value": "Business first"
                                                                         },
-                                                                        "positionName": "President",
+                                                                        "positionName": "Brother",
                                                                         "children": [
                                                                         {
                                                                             "name": "Joshua Philipose",
@@ -3016,7 +3016,7 @@
                                                                                 "children": [
                                                                                 {
                                                                                     "name": "Sonya Ayar",
-                                                                                    "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/general.jpg",
+                                                                                    "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/SonyaAyar.jpg",
                                                                                     "area": "Corporate",
                                                                                     "profileUrl": "http://example.com/employee/profile",
                                                                                     "office": "CEO office",
@@ -3026,7 +3026,7 @@
                                                                                         "type": "business",
                                                                                         "value": "Business first"
                                                                                     },
-                                                                                    "positionName": "Pledge"
+                                                                                    "positionName": "Brother"
                                                                                 }
                                                                                 ]
                                                                             }
@@ -3058,7 +3058,7 @@
                                                                                 "type": "business",
                                                                                 "value": "Business first"
                                                                             },
-                                                                            "positionName": "Brother"
+                                                                            "positionName": "VP of Marketing"
                                                                         }
                                                                         ]
                                                                     }
@@ -3234,7 +3234,7 @@
                                                                         "type": "business",
                                                                         "value": "Business first"
                                                                     },
-                                                                    "positionName": "VP of Membership",
+                                                                    "positionName": "President",
                                                                     "children": [
                                                                     {
                                                                         "name": "Andzoa Jamus",
@@ -3520,7 +3520,7 @@
                                                         "type": "business",
                                                         "value": "Business first"
                                                     },
-                                                    "positionName": "Pledge"
+                                                    "positionName": "Brother"
                                                 }
                                                 ]
                                             }
@@ -3984,11 +3984,11 @@
                                         "type": "business",
                                         "value": "Business first"
                                     },
-                                    "positionName": "Brother",
+                                    "positionName": "VP of Professional Programming",
                                     "children": [
                                     {
                                         "name": "Marintia Eiko Goto-Williams",
-                                        "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/general.jpg",
+                                        "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/MarintiaGotoWilliams.jpg",
                                         "area": "Corporate",
                                         "profileUrl": "http://example.com/employee/profile",
                                         "office": "CEO office",
@@ -3998,7 +3998,7 @@
                                             "type": "business",
                                             "value": "Business first"
                                         },
-                                        "positionName": "Pledge"
+                                        "positionName": "Brother"
                                     }
                                     ]
                                 }
@@ -4016,7 +4016,7 @@
                                     "type": "business",
                                     "value": "Business first"
                                 },
-                                "positionName": "Brother"
+                                "positionName": "VP of Membership"
                             },
                             {
                                 "name": "Daniel Ocano",
@@ -4058,7 +4058,7 @@
                                             "type": "business",
                                             "value": "Business first"
                                         },
-                                        "positionName": "VP of Professional Programming",
+                                        "positionName": "Brother",
                                         "children": [
                                         {
                                             "name": "Chunjun (Paul) Jia",
@@ -4076,7 +4076,7 @@
                                             "children": [
                                             {
                                                 "name": "Teresa Ozga",
-                                                "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/general.jpg",
+                                                "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/TeresaOzga.jpg",
                                                 "area": "Corporate",
                                                 "profileUrl": "http://example.com/employee/profile",
                                                 "office": "CEO office",
@@ -4086,13 +4086,13 @@
                                                     "type": "business",
                                                     "value": "Business first"
                                                 },
-                                                "positionName": "Pledge"
+                                                "positionName": "Brother"
                                             }
                                             ]
                                         },
                                         {
                                             "name": "Medha Madangarli",
-                                            "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/general.jpg",
+                                            "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/MedhaMadangarli.jpg",
                                             "area": "Corporate",
                                             "profileUrl": "http://example.com/employee/profile",
                                             "office": "CEO office",
@@ -4102,7 +4102,7 @@
                                                 "type": "business",
                                                 "value": "Business first"
                                             },
-                                            "positionName": "Pledge"
+                                            "positionName": "Brother"
                                         }
                                         ]
                                     }
@@ -4308,7 +4308,7 @@
                                 "type": "business",
                                 "value": "Business first"
                             },
-                            "positionName": "Executive Vice President",
+                            "positionName": "Brother",
                             "children": [
                             {
                                 "name": "Ilesh Jain",
@@ -4326,7 +4326,7 @@
                                 "children": [
                                 {
                                     "name": "Yashoraj Singh",
-                                    "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/general.jpg",
+                                    "imageUrl": "https://raw.githubusercontent.com/GTAKPsi/gtakpsi.github.io/master/Family%20Tree%20Pictures/YashorajSingh.jpg",
                                     "area": "Corporate",
                                     "profileUrl": "http://example.com/employee/profile",
                                     "office": "CEO office",
@@ -4336,7 +4336,7 @@
                                         "type": "business",
                                         "value": "Business first"
                                     },
-                                    "positionName": "Pledge"
+                                    "positionName": "Brother"
                                 }
                                 ]
                             }
